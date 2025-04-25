@@ -2,7 +2,7 @@
 # [Calliope Funkstörsender](https://makecode.calliope.cc/_4yjH1A8DLPtz)
 
 
-Dieses Programm sendet auf jeder möglichen Funkfrequenz sinnlose Daten und Anweisungen, mit der Hoffnung, alle Kommunikationen im Umfeld zu blockieren und etliche Geräte zum Abstürzen bringen.
+Dieses Programm sendet auf jeder möglichen Funkfrequenz sinnlose Daten und Anweisungen, mit der Hoffnung, alle Kommunikationen im Umfeld zu blockieren und etliche Geräte zum Abstürzen zu bringen.
 
 
 ### Features:
