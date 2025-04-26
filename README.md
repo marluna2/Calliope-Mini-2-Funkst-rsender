@@ -30,11 +30,9 @@ Stufe 6: Zahlen, Text, Wertpaare, simulierte Tastendrücke, simulierte Beschleun
 
 
 Starten der Software:
-![Software starten](https://i.ibb.co/cKvx78jR/Microsoft-Make-Codefor-Calliopemini-Opera2025-04-2521-53-18-ezgif-com-crop.gif)
 https://i.ibb.co/cKvx78jR/Microsoft-Make-Codefor-Calliopemini-Opera2025-04-2521-53-18-ezgif-com-crop.gif
 
 Beenden der Software:
-![Software stoppen](https://i.ibb.co/kZYhYP4/Microsoft-Make-Codefor-Calliopemini-Opera2025-04-2521-53-18-ezgif-com-video-to-gif-converter.gif)
 https://i.ibb.co/kZYhYP4/Microsoft-Make-Codefor-Calliopemini-Opera2025-04-2521-53-18-ezgif-com-video-to-gif-converter.gif
 
 ## Links
