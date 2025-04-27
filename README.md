@@ -2,7 +2,8 @@
 # [Calliope Funkstörsender](https://makecode.calliope.cc/_4yjH1A8DLPtz)
 
 
-Dieses Programm sendet auf jeder möglichen Funkfrequenz sinnlose Daten und Anweisungen, mit der Hoffnung, alle Kommunikationen im Umfeld zu blockieren und etliche Geräte zum Abstürzen zu bringen.
+Dieses Programm sendet auf jeder möglichen Funkfrequenz sinnlose Daten und Anweisungen,
+mit der Hoffnung, alle Kommunikationen im Umfeld zu blockieren und etliche Geräte zum Abstürzen zu bringen.
 
 
 ### Features:
@@ -10,11 +11,16 @@ Dieses Programm sendet auf jeder möglichen Funkfrequenz sinnlose Daten und Anwe
 - Schöne und verständliche Animationen
 - Einstellbare Auswirkung mit 6 Stufen
 - Leistungsstark: Das Programm simuliert Tastendrücke und Interaktionen auf den Zielgeräten
-- Störungsarten: Zahlen, Text, Wertpaare und Ausgelöste Ereignisse
+- Störungsarten: Zahlen, Text, Wertpaare und ausgelöste Ereignisse
+
 ## Umgang
 
-Die Variable "stufe" ist verantwortlich für die Stärke des Störprogrammes. Stufe 0 hat keinen Effekt. Stufe 6 hat den stärksten Effekt. Je höher die Stufe, desto langsamer läuft jedoch auch das Programm.
+Die Variable "stufe" ist verantwortlich für die Stärke des Störprogrammes.
+Stufe 0 hat keinen Effekt und ist hauptsächlich zum Testen gebraucht.
+Stufe 6 hat den stärksten Effekt.
+Je höher die Stufe, desto langsamer läuft jedoch auch das Programm.
 
+Stufe 0: Nichts, ungefährlich
 
 Stufe 1: Zahlen
 
@@ -24,9 +30,9 @@ Stufe 3: Zahlen, Text, Wertpaare
 
 Stufe 4: Zahlen, Text, Wertpaare, simulierte Tastendrücke
 
-Stufe 5: Zahlen, Text, Wertpaare, simulierte Tastendrücke, simulierte Beschleunigung, Gesten und Radio
+Stufe 5: Zahlen, Text, Wertpaare, simulierte Tastendrücke, simulierte Beschleunigungen, Gesten und Radiowerte
 
-Stufe 6: Zahlen, Text, Wertpaare, simulierte Tastendrücke, simulierte Beschleunigung, Gesten und Radio, Weitere simulierte Werte
+Stufe 6: Zahlen, Text, Wertpaare, simulierte Tastendrücke, simulierte Beschleunigungen, Gesten und Radiowerte, weitere simulierte Werte
 
 
 Starten der Software:
